@@ -1,0 +1,141 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="bai 1 _nhap_xuat.cs" />
+    <Compile Remove="bai 2 _const_readonly_static.cs" />
+    <Compile Remove="bai 3 _ep_kieu.cs" />
+    <Compile Remove="bai 4 _if_else.cs" />
+    <Compile Remove="bai 5 _switch_case.cs" />
+    <Compile Remove="bai 6 _object_var_dynamic.cs" />
+    <Compile Remove="bai 7 _goto.cs" />
+    <Compile Remove="bai 8 _for_while_dowhile_foreach.cs" />
+    <Compile Remove="bai 9 _random.cs" />
+    <Compile Remove="bai_10 _lenh_mau.cs" />
+    <Compile Remove="bai_11 _ham.cs" />
+    <Compile Remove="bai_12 _ref_out.cs" />
+    <Compile Remove="bai_13 ref_out.cs" />
+    <Compile Remove="bai_14 mang 1 chieu.cs" />
+    <Compile Remove="bai_15 mang 2 chieu.cs" />
+    <Compile Remove="bai_16_mang_nhieu_chieu.cs" />
+    <Compile Remove="bai_17_foreach_mang2chieu.cs" />
+    <Compile Remove="bai_18_ham_tinh_thoi_gian.cs" />
+    <Compile Remove="bai_19 string.cs" />
+    <Compile Remove="bai_20 struct.cs" />
+    <Compile Remove="bai_21 enum.cs" />
+    <Compile Remove="bai_22  Regular Expression.cs" />
+    <Compile Remove="bai_22 B_Regular _Expression.cs" />
+    <Compile Remove="bai_23 class.cs" />
+    <Compile Remove="bai_24 cac pham vi truy cap.cs" />
+    <Compile Remove="bai_25 static.cs" />
+    <Compile Remove="bai_26 ke thua.cs" />
+    <Compile Remove="bai_27 tinh da hinh_virtual _override_abstract.cs" />
+    <Compile Remove="bai_28 interface.cs" />
+    <Compile Remove="bai_29 generic.cs" />
+    <Compile Remove="bai_30 list.cs" />
+    <Compile Remove="bai_31 dictionary.cs" />
+    <Compile Remove="bai_32 hash table.cs" />
+    <Compile Remove="bai_33 arraylist.cs" />
+    <Compile Remove="bai_34  SortedList.cs" />
+    <Compile Remove="bai_35 stack_nganxep.cs" />
+    <Compile Remove="bai_36 queue.cs" />
+    <Compile Remove="bai_37 bitarray.cs" />
+    <Compile Remove="bai_38 tuple.cs" />
+    <Compile Remove="bai_39 lấy ngày tháng năm từ máy tính.cs" />
+    <Compile Remove="bai_40 icollection.cs" />
+    <Compile Remove="bai_41 exception_su_ly_ngoai_le.cs" />
+    <Compile Remove="bai_43 doc_ghi_du_lieu_ra_file.cs" />
+    <Compile Remove="bai_44 delegate.cs" />
+    <Compile Remove="bai_44_a userdelegate.cs" />
+    <Compile Remove="bai_45 delegate_hoc_lai.cs" />
+    <Compile Remove="bai_46 event.cs" />
+    <Compile Remove="bai_46 user_event.cs" />
+    <Compile Remove="bai_47 listEvent.cs" />
+    <Compile Remove="bai_47 sudung_listEvent.cs" />
+    <Compile Remove="bai_48 event_tu_tao.cs" />
+    <Compile Remove="bai_48 sudung_event_tutao.cs" />
+    <Compile Remove="bai_49_XoaFile_folder.cs" />
+    <Compile Remove="di_chuyen_con_tro_den_vi_tri_tren_console.cs" />
+    <Compile Remove="nhap_xuat_sap_xep_duongCheoCHinh.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="tao_class_sinhvien2.cs" />
+    <Compile Remove="tao_class_sinh_vien.cs" />
+    <Compile Remove="UCLN_va_BCNN.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bai_11 _ham.cs" />
+    <None Include="bai_19 string.cs" />
+    <None Include="bai_21 enum.cs" />
+    <None Include="bai_22  Regular Expression.cs" />
+    <None Include="bai_22 B_Regular _Expression.cs" />
+    <None Include="bai_23 class.cs" />
+    <None Include="bai_30 list.cs" />
+    <None Include="bai_31 dictionary.cs" />
+    <None Include="bai_32 hash table.cs" />
+    <None Include="bai_33 arraylist.cs" />
+    <None Include="bai_34  SortedList.cs" />
+    <None Include="bai_35 stack_nganxep.cs" />
+    <None Include="bai_36 queue.cs" />
+    <None Include="bai_37 bitarray.cs" />
+    <None Include="bai_38 tuple.cs" />
+    <None Include="bai_43 doc_ghi_du_lieu_ra_file.cs" />
+    <None Include="bai_44 delegate.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bai_14 mang 1 chieu.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bai_10 _lenh_mau.cs" />
+    <None Include="bai 1 _nhap_xuat.cs" />
+    <None Include="bai_49_XoaFile_folder.cs" />
+    <Resource Include="bai_12 _ref_out.cs" />
+    <None Include="bai_13 ref_out.cs" />
+    <None Include="bai_15 mang 2 chieu.cs" />
+    <None Include="bai 2 _const_readonly_static.cs" />
+    <None Include="bai 3 _ep_kieu.cs" />
+    <None Include="bai 4 _if_else.cs" />
+    <None Include="bai 5 _switch_case.cs" />
+    <None Include="bai 6 _object_var_dynamic.cs" />
+    <None Include="bai 7 _goto.cs" />
+    <None Include="bai 8 _for_while_dowhile_foreach.cs" />
+    <None Include="bai 9 _random.cs" />
+    <None Include="bai_16_mang_nhieu_chieu.cs" />
+    <None Include="bai_17_foreach_mang2chieu.cs" />
+    <None Include="bai_18_ham_tinh_thoi_gian.cs" />
+    <None Include="bai_20 struct.cs" />
+    <None Include="bai_24 cac pham vi truy cap.cs" />
+    <None Include="bai_25 static.cs" />
+    <None Include="bai_26 ke thua.cs" />
+    <None Include="bai_27 tinh da hinh_virtual _override_abstract.cs" />
+    <None Include="bai_28 interface.cs" />
+    <None Include="bai_29 generic.cs" />
+    <None Include="bai_39 lấy ngày tháng năm từ máy tính.cs" />
+    <None Include="bai_40 icollection.cs" />
+    <None Include="bai_41 exception_su_ly_ngoai_le.cs" />
+    <None Include="bai_44_a userdelegate.cs" />
+    <None Include="bai_45 delegate_hoc_lai.cs" />
+    <None Include="bai_46 event.cs" />
+    <None Include="bai_46 user_event.cs" />
+    <None Include="bai_47 listEvent.cs" />
+    <None Include="bai_47 sudung_listEvent.cs" />
+    <None Include="bai_48 sudung_event_tutao.cs" />
+    <None Include="di_chuyen_con_tro_den_vi_tri_tren_console.cs" />
+    <None Include="nhap_xuat_sap_xep_duongCheoCHinh.cs" />
+    <None Include="Program.cs" />
+    <None Include="tao_class_sinhvien2.cs" />
+    <None Include="tao_class_sinh_vien.cs" />
+    <None Include="UCLN_va_BCNN.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bai_48 event_tu_tao.cs" />
+  </ItemGroup>
+
+</Project>
